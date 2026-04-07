@@ -1,0 +1,11 @@
+CSV / API Data
+      ↓
+Data Cleaning (PySpark)
+      ↓
+Transformation (Customer KPIs)
+      ↓
+Load to PostgreSQL
+      ↓
+Scheduled ETL with Airflow
+      ↓
+Dashboard in Power BI
