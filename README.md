@@ -1,6 +1,5 @@
 # Customer-Behavior-Analytics-Pipeline
 Build a data pipeline that analyzes customer purchase behavior.
-# Customer Behavior Analytics Pipeline
 
 This project demonstrates a complete data engineering pipeline
 for analyzing customer purchasing behavior.
