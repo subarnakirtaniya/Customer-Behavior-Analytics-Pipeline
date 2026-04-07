@@ -1,0 +1,10 @@
+transaction_id
+customer_id
+product_id
+product_category
+price
+quantity
+transaction_date
+city
+payment_method
+
