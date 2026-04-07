@@ -1,0 +1,21 @@
+customer-analytics-data-pipeline
+│
+├── data
+│   └── customer_transactions.csv
+│
+├── pyspark_jobs
+│   ├── data_cleaning.py
+│   ├── customer_metrics.py
+│
+├── database
+│   └── create_tables.sql
+│
+├── airflow_dags
+│   └── customer_pipeline_dag.py
+│
+├── dashboard
+│   └── powerbi_dashboard.pbix
+│
+├── requirements.txt
+└── README.md
+
